@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ekizaoje.github.io/KLB/sitemap_index.txt
+Sitemap: https://ekizaoje.github.io/Uas/sitemap_index.txt
+Sitemap: https://ekizaoje.github.io/kZD/sitemap_index.txt
